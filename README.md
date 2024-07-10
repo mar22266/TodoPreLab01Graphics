@@ -21,7 +21,7 @@ The project is organized into several modules:
 
 ### Prerequisites
 
-Ensure you have Rust installed on your machine. If not, you can install Rust via [rustup](https://rustup.rs/).
+Ensure you have Rust installed on your machine. If not, you can install Rust via [rustup](https://www.rust-lang.org/tools/install).
 
 ### Installation
 
