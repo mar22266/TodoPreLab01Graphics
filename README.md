@@ -30,6 +30,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://your-repository-url.git
 cd your-repository-directory
+```
 
 ### Building and Running the Project
 
@@ -41,3 +42,4 @@ cargo build
 
 # Run the application
 cargo run
+```
